@@ -1,0 +1,9 @@
+h1 {color: white; 
+	background: black;
+	text-align: center;
+	padding: 10px}
+.bio {background: beige;
+	float: left;
+	}
+
+.info {float: right;}
